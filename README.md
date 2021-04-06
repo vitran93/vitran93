@@ -1,6 +1,6 @@
 <a href="https://profile-summary-for-github.com/user/vitran93">
-  <img align="left" height="300px" width="60%" src="https://github-readme-stats.vercel.app/api?theme=light&username=mayanknimcet188&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Mayank's GitHub stats"/>
-  <img height="300px" width="35%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanknimcet188&layout=compact" align="right" height=150em>
+  <img align="left" height="300px" width="60%" src="https://github-readme-stats.vercel.app/api?theme=light&username=vitran93&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Vi's GitHub stats"/>
+  <img height="300px" width="35%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitran93&layout=compact" align="right" height=150em>
   </a>
 
 <!--
